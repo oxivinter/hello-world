@@ -1,2 +1,4 @@
 # hello-world
-First experiences with GitHub
+This repository has no use other than to teach myself about basic GitHub features.
+
+
